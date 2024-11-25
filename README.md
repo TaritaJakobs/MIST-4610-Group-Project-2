@@ -34,7 +34,8 @@ The significance of this question would be for the use of updating compliance co
 
 ## Question 2 Results and Analysis
 
-![image](https://github.com/user-attachments/assets/9db77086-fd23-4805-bc59-558952e80ee6) 
+![D4A8E24A-255F-45B2-B186-3A680F8F977E_1_201_a](https://github.com/user-attachments/assets/ebef30c7-701f-4750-993a-34659c5de630)  
+
 
 The graph shows property damage on the x-axis and property damage on the y-axis. Each dot is a storm. After drawing a line of regression, we got an R-square of .29 and a p-value of <.0001, showing the significance of the date and proving a correlation between property damage and number of fatalities. Therefore, we can prove that there is a positive relationship between deaths and property damage, showing that an increase in property damage can lead to an increase in fatalities during natural disasters.
 
