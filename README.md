@@ -43,7 +43,7 @@ The graph shows property damage on the x-axis and property damage on the y-axis.
 Our dataset consists of two tables: storm details and storm fatalities. We joined them together to acquire more data and show the severity of the natural disasters. The storm fatality consists of data about fatalities of the storm while storm details contain general information about the storms, like the type and location. Additionally, we created a calculated field to change the column "Property damage" from a string to a numeric data type so we can use it to conduct our analysis.
 
 ## Tableau Packaged Workbook
-
+[Tableau Workbook](https://github.com/TaritaJakobs/MIST-4610-Group-Project-2/blob/main/MIST4610_Group6.twbx)
 ## Slide Presentation
 [Presentation](https://docs.google.com/presentation/d/1B46KUGu4pRxniZi-3Z1cxYYDa6x0bsMjXq1WEiI80h0/edit?usp=sharing)
 
