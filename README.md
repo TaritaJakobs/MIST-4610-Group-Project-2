@@ -49,6 +49,7 @@ Our dataset consists of two tables: storm details and storm fatalities. We joine
 
 ## Tarita’s Honors Option
 [Link to Google Doc](https://docs.google.com/document/d/1LCuGXBnOrmYiUFvPo0kyIFfiAr1rGX5Xj8dHGfC10vE/edit?usp=sharing)
+[Tableau Workbook With Honors Option](https://github.com/TaritaJakobs/MIST-4610-Group-Project-2/blob/main/MIST4610_Group6%20(1).twbx)
 
 ## Honors Option Question and Significance
 What is the total cost of damaged crops in 2023 in the top 5 farming states in the United States (California, Illinois, Iowa, Texas, Nebraska) caused by natural disasters?
@@ -58,9 +59,14 @@ This question is significant especially for farmers, so that they know to take p
 
 ## Honors Option Results and Analysis
 
+<img width="1023" alt="5E2E3CE8-3F2E-4034-BF68-383D85DFE415" src="https://github.com/user-attachments/assets/95b500ed-1a11-443d-865d-96a5d75cc261">
+
 I found that although California produces the most crops in the United States, they had the second lowest amount of crop damage, at $51,000. Furthermore, I noticed that states like Texas and Nebraska featured crop damage of over $100,000. 
 
 To analyze this question, I had to convert Damage Crops from a String value into a numerical value, using a calculated field and naming it Damage Crops Numerical:
+
+<img width="692" alt="E598EDCD-C197-4B63-A195-A09CD011C6FB" src="https://github.com/user-attachments/assets/6897b193-e13e-4563-ba4f-c459e1936a3b">
+
 
 I also used a filter on the states to ensure that only the top 5 crop producing states are showing. 
 
